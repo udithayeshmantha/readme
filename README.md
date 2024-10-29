@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&color:green&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Gihan+Vimukthi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&color:green&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Udith+Ayeshmantha!;" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Udith Ayeshmantha</h1>
