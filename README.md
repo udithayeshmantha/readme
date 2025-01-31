@@ -7,8 +7,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on *Ark Creatives*
- 
  🌱 I’m currently learning *Javascript, Python, Flutter, React*
 
  </div>
